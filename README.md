@@ -96,6 +96,8 @@ usage: jt [-h] [-l] [-t THEME] [-f MONOFONT] [-fs MONOSIZE] [-nf NBFONT]
 | Name & Logo Visible   |  -N       |      --       |
 | Restore Default       |  -r       |      --       |
 
+*You will need to restart `jupyter` after running for the first time.*
+
 ### Examples
 ```sh
 # list available themes
